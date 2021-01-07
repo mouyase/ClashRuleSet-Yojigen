@@ -6,3 +6,13 @@ DOMAIN-SUFFIX,cncnet.org
 
 #Waraming
 DOMAIN-SUFFIX,wargaming.net
+
+#Yojigen
+DOMAIN-SUFFIX,128512.xyz
+IP-CIDR,45.137.154.0/24
+
+#Xbox
+DOMAIN-SUFFIX,xboxlive.com
+
+#NN
+DOMAIN-SUFFIX,nn.com
