@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,nn.com
 
 #TEST IPV6
 DOMAIN-SUFFIX,test-ipv6.com
+
+#Wifi Client
+DOMAIN-SUFFIX,wifi.com
