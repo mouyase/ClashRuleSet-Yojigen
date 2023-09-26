@@ -1,3 +1,6 @@
 #GoogleCN
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleapis.cn
+
+#OpenAI
+DOMAIN-SUFFIX,openai.com
