@@ -21,3 +21,9 @@ DOMAIN-SUFFIX,wifi.com
 
 #SeaArtDev
 DOMAIN-SUFFIX,dev.seaart.ai
+
+#SeaArtManager
+DOMAIN-SUFFIX,manager.seaart.ai
+
+#StarUnion
+DOMAIN-SUFFIX,staruniongame.com
