@@ -27,3 +27,7 @@ DOMAIN-SUFFIX,manager.seaart.ai
 
 #StarUnion
 DOMAIN-SUFFIX,staruniongame.com
+
+#SSH
+DOMAIN-SUFFIX,staruniongame.com
+DST-PORT,22
