@@ -18,9 +18,9 @@ dns:
     - '*.lan'
     - localhost.ptlogin2.qq.com
   nameserver-policy:
-    '+.baidu.com': '119.29.29.29'
     '+.staruniongame.com': '172.16.10.10'
     '+.seaart.dev': '172.16.10.10'
+    '+.baidu.com': '119.29.29.29'
     '+.internal.crop.com': '10.0.0.1'
     'geosite:cn': https://doh.pub/dns-query
   nameserver:
