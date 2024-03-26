@@ -42,6 +42,4 @@ dns:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
-Proxy: ~
-Proxy Group: ~
-Rule: ~
+
