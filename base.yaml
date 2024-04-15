@@ -17,6 +17,8 @@ dns:
   fake-ip-filter:
     - '*.lan'
     - localhost.ptlogin2.qq.com
+    - '*.staruniongame.com'
+    - '*.seaart.ai'
   nameserver-policy:
     '+.staruniongame.com': '172.16.10.10'
     '+.seaart.dev': '172.16.10.10'
