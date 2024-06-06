@@ -22,10 +22,11 @@ DOMAIN-SUFFIX,test-ipv6.com
 # Wifi Client
 DOMAIN-SUFFIX,wifi.com
 
-# SeaArtDev
+# SeaArt Dev
 DOMAIN-SUFFIX,dev.seaart.ai
+DOMAIN-SUFFIX,seaart.dev
 
-# SeaArtManager
+# SeaArt Manager
 DOMAIN-SUFFIX,manager.seaart.ai
 
 # StarUnion
