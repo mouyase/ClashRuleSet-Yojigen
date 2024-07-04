@@ -35,3 +35,7 @@ DOMAIN-SUFFIX,outer.staruniongame.com
 
 # Yojigen.Tech
 DOMAIN-SUFFIX,yojigen.tech
+
+# MyServers
+IP-CIDR,142.171.42.116/32,no-resolve
+142.171.42.116
