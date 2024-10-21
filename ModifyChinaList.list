@@ -1,0 +1,38 @@
+# U2 Tracker
+DOMAIN-SUFFIX,dmhy.best
+
+# CnCNet
+DOMAIN-SUFFIX,cncnet.org
+
+# Waraming
+DOMAIN-SUFFIX,wargaming.net
+
+# Xbox
+DOMAIN-SUFFIX,xboxlive.com
+
+# NN
+DOMAIN-SUFFIX,nn.com
+
+# TEST IPV4
+DOMAIN-SUFFIX,test-ipv4.com
+
+# TEST IPV6
+DOMAIN-SUFFIX,test-ipv6.com
+
+# Wifi Client
+DOMAIN-SUFFIX,wifi.com
+
+# SeaArt Dev
+DOMAIN-SUFFIX,aiart-api.dev.seaart.ai
+DOMAIN-SUFFIX,aiart-openresty.dev.seaart.ai
+DOMAIN-SUFFIX,aiart-api.dev.seaart.io
+
+# SeaArt Manager
+DOMAIN-SUFFIX,manager.seaart.ai
+
+# StarUnion
+DOMAIN-SUFFIX,staruniongame.com
+DOMAIN-SUFFIX,outer.staruniongame.com
+
+# Yojigen.Tech
+DOMAIN-SUFFIX,yojigen.tech

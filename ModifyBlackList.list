@@ -1,0 +1,18 @@
+# GoogleCN
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,googleapis.cn
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+
+# Gradle 
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,dl.l.google.com
+DOMAIN-SUFFIX,plugins.gradle.org
+DOMAIN-SUFFIX,repo.maven.apache.org
+DOMAIN-SUFFIX,jcenter.bintray.com
+
+# SeaArt Dev CDN
+DOMAIN-SUFFIX,seaart.ai
+DOMAIN-SUFFIX,seaart.io
+DOMAIN-SUFFIX,seaart.me
