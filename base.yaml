@@ -13,18 +13,18 @@ dns:
     - 223.5.5.5
     - 119.29.29.29
   enhanced-mode: fake-ip
-  fake-ip-range: 7.0.0.0/8
+  fake-ip-range: 11.0.0.0/8
   fake-ip-filter:
-    - '*.lan'
+    - "*.lan"
     - localhost.ptlogin2.qq.com
-    - '*.staruniongame.com'
-    - '*.seaart.ai'
+    - "*.staruniongame.com"
+    - "*.seaart.ai"
   nameserver-policy:
-    '+.staruniongame.com': '172.16.10.10'
-    '+.seaart.dev': '172.16.10.10'
-    '+.baidu.com': '119.29.29.29'
-    '+.internal.crop.com': '10.0.0.1'
-    'geosite:cn': https://doh.pub/dns-query
+    +.staruniongame.com: 172.16.10.10
+    +.seaart.dev: 172.16.10.10
+    +.baidu.com: 119.29.29.29
+    +.internal.crop.com: 10.0.0.1
+    geosite:cn: https://doh.pub/dns-query
   nameserver:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
@@ -36,12 +36,12 @@ dns:
   fallback-filter:
     geoip: true
     geoip-code: CN
-    geosite:
+    direct-nameserver:
       - gfw
     ipcidr:
       - 240.0.0.0/4
     domain:
-      - '+.google.com'
-      - '+.facebook.com'
-      - '+.youtube.com'
+      - +.google.com
+      - +.facebook.com
+      - +.youtube.com
 
