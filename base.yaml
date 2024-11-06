@@ -21,6 +21,7 @@ dns:
     - "*.seaart.ai"
     - "*.seaart.dev"
     - "*.seaart.io"
+    - "yojigen.tech"
     - "*.yojigen.tech"
   nameserver-policy:
     +.staruniongame.com: 172.16.10.10
@@ -29,6 +30,7 @@ dns:
     +.seaart.io: 172.16.10.10
     +.baidu.com: 119.29.29.29
     +.internal.crop.com: 10.0.0.1
+    yojigen.tech: https://doh.pub/dns-query
     +.yojigen.tech: https://doh.pub/dns-query
     geosite:cn: https://doh.pub/dns-query
   nameserver:
