@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,wifi.com
 
 # SeaArt Dev
 DOMAIN-SUFFIX,aiart-api.dev.seaart.ai
+DOMAIN-SUFFIX,manager.dev.seaart.ai
 DOMAIN-SUFFIX,aiart-openresty.dev.seaart.ai
 DOMAIN-SUFFIX,aiart-api.dev.seaart.io
 
