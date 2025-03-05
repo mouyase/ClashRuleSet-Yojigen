@@ -18,14 +18,17 @@ dns:
     - "*.lan"
     - localhost.ptlogin2.qq.com
     - "*.staruniongame.com"
-    - "*.seaart.ai"
+    - "*.outer.staruniongame.com"
     - "*.seaart.dev"
+    - "*.dev.seaart.dev"
     - "*.seaart.io"
     - "yojigen.tech"
     - "*.yojigen.tech"
   nameserver-policy:
     +.staruniongame.com: 172.16.10.10
+    +.outer.staruniongame.com: 172.16.10.10
     +.seaart.dev: 172.16.10.10
+    +.dev.seaart.dev: 172.16.10.10
     +.seaart.ai: 172.16.10.10
     +.seaart.io: 172.16.10.10
     +.baidu.com: 119.29.29.29
