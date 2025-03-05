@@ -23,10 +23,10 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,wifi.com
 
 # SeaArt Dev
-DOMAIN-SUFFIX,aiart-api.dev.seaart.ai
-DOMAIN-SUFFIX,manager.dev.seaart.ai
-DOMAIN-SUFFIX,aiart-openresty.dev.seaart.ai
-DOMAIN-SUFFIX,aiart-api.dev.seaart.io
+DOMAIN-SUFFIX,aiart-api.dev.seaart.dev
+DOMAIN-SUFFIX,manager.dev.seaart.dev
+DOMAIN-SUFFIX,aiart-openresty.dev.seaart.dev
+DOMAIN-SUFFIX,aiart-api.dev.seaart.dev
 
 # SeaArt Manager
 DOMAIN-SUFFIX,manager.seaart.ai
