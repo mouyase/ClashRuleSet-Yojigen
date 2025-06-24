@@ -32,7 +32,4 @@ DOMAIN-SUFFIX,manager.seaart.ai
 # StarUnion
 DOMAIN-SUFFIX,staruniongame.com
 DOMAIN-SUFFIX,outer.staruniongame.com
-
-# Yojigen.Tech
-DOMAIN-SUFFIX,yojigen.tech
-IP-CIDR,83.229.120.0/24
+IP-CIDR,172.16.0.0/16
