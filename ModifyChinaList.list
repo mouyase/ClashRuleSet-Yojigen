@@ -22,14 +22,12 @@ DOMAIN-SUFFIX,test-ipv6.com
 # Wifi Client
 DOMAIN-SUFFIX,wifi.com
 
-# SeaArt Dev
-DOMAIN-SUFFIX,seaart.dev
-DOMAIN-SUFFIX,dev.seaart.dev
-
-# SeaArt Manager
-DOMAIN-SUFFIX,manager.seaart.ai
+# SeaArt
+DOMAIN-SUFFIX,saconsole.com
+DOMAIN-REGEX,^.*\.seaart\.dev
+DOMAIN-REGEX,^.*\.haiyiai\.tech
 
 # StarUnion
-DOMAIN-SUFFIX,staruniongame.com
-DOMAIN-SUFFIX,outer.staruniongame.com
+DOMAIN-REGEX,^.*\.staruniongame\.com
+
 IP-CIDR,172.16.0.0/16
