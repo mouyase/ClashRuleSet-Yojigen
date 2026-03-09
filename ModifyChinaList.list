@@ -31,3 +31,4 @@ DOMAIN-REGEX,^.*\.haiyiai\.tech
 DOMAIN-REGEX,^.*\.staruniongame\.com
 
 IP-CIDR,172.16.0.0/16
+IP-CIDR,10.185.0.0/16
