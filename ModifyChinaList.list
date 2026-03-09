@@ -24,11 +24,11 @@ DOMAIN-SUFFIX,wifi.com
 
 # SeaArt
 DOMAIN-SUFFIX,saconsole.com
-DOMAIN-REGEX,^.*\.seaart\.dev
-DOMAIN-REGEX,^.*\.haiyiai\.tech
+DOMAIN-REGEX,"^.*\.seaart\.dev$"
+DOMAIN-REGEX,"^.*\.haiyiai\.tech$"
 
 # StarUnion
-DOMAIN-REGEX,^.*\.staruniongame\.com
+DOMAIN-REGEX,"^.*\.staruniongame\.com$"
 
 IP-CIDR,172.16.0.0/16
 IP-CIDR,10.185.0.0/16
