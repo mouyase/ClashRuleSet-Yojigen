@@ -23,9 +23,11 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,wifi.com
 
 # SeaArt
-DOMAIN-SUFFIX,saconsole.com
 DOMAIN-REGEX,.*\.seaart\.dev
 DOMAIN-REGEX,.*\.haiyiai\.tech
+DOMAIN-REGEX,.*\.vtrix.ai
+DOMAIN-SUFFIX,vtrix.ai
+DOMAIN-SUFFIX,saconsole.com
 
 # StarUnion
 DOMAIN-REGEX,.*\.staruniongame\.com
