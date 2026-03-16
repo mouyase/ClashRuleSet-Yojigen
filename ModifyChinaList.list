@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,wifi.com
 # SeaArt
 DOMAIN-REGEX,.*\.seaart\.dev
 DOMAIN-REGEX,.*\.haiyiai\.tech
-DOMAIN-REGEX,.*\.vtrix.ai
+DOMAIN-REGEX,.*\.vtrix\.ai
 DOMAIN-SUFFIX,vtrix.ai
 DOMAIN-SUFFIX,saconsole.com
 
